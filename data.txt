@@ -1,0 +1,11 @@
+Hlo! How can i help you
+
+Machine learning is a field of artificial intelligence that enables computers to learn from data without being explicitly programmed.
+
+Deep learning is a branch of artificial intelligence that uses multi-layered artificial neural networks to automatically extract patterns and features from vast amounts of raw, unstructured data
+
+Flask is a lightweight Python web framework used for building APIs.
+
+FAISS is a library for efficient similarity search and clustering of dense vectors.
+
+Python is a programming language used in AI, data science, and web development.
